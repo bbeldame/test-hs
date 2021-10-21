@@ -1,0 +1,5 @@
+[
+  { "name": "Item 1", "navigateTo": "abc"},
+  { "name": "Item 2", "navigateTo": "abc"},
+  { "name": "Item 3", "navigateTo": "abc"}
+]
