@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.4.16",
+    "babel-plugin-styled-components": "^1.13.3",
     "graphql": "^15.6.1",
     "next": "^11.0.0",
     "react": "17.0.2",
